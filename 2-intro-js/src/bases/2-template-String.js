@@ -5,7 +5,7 @@ const fullName = `${nombre} ${apellido}`;
 
 console.log(fullName);
 
-function getSaludo(nombre ){
+function getSaludo(nombre){
     return `Hola ${nombre}`;
 }
 
